@@ -25,7 +25,7 @@ const HomeTextContent = () => {
       </div>
       <div class="container">
     <div class="row">
-        <div class="col-md-6 p-5">
+        <div class="col-md-6 ">
             <h1>STACKROOTS Rooting Your Business With Us</h1>
         </div>
         <div class="col-md-6">
@@ -36,7 +36,7 @@ const HomeTextContent = () => {
 
       <div className='row col-12 content-2'>
 
-        <div className="col-9">
+        <div className="col-12 col-lg-9">
           <h1>Elevating Your Business with Customized Solutions</h1>
           <div>At StacKRoots, we understand that every company is unique and deserves the best solutions and products. That's why we offer customized blockchain-based web applications, mobile applications, ERP & CRM products, Metaverse environments, and full-stack software products. Our team is dedicated to reflecting your personal brand while scaling up and promoting an exceptional user experience with the new era of marketing. With our expertise and commitment to excellence, we will elevate your business to new heights.</div>
         </div>
@@ -107,47 +107,47 @@ const HomeTextContent = () => {
       </div>
       <div className='row col-12 content-4'>
 
-        <div className="col-9">
+        <div className="col-12 col-lg-9">
           <h2>Our Services</h2>
           <div>We understand that every client is unique, which is why we take the time to understand their needs and tailor our services & products accordingly. We create the best software applications and related products for our clients. We listen, research, and plan together with our clients to reach our goals, whether it be developing, software or a product. Explore our range of services & products and discover how we can help your business grow and succeed.</div>
         </div>
         <div className="row col-12 card-list" style={{ marginTop: "60px" }}>
-          <div className="col-lg-4 col-md-6 col-sm-12 service-card">
+          <div className="col-sm-12 col-md-6 col-lg-4 service-card">
             <MediaCard
               image={web}
               title={"Website Development Service"}
               text={"Each design what we create will suits all environment. Each client needs will be far different, so we are adaptive to design as your needs."}
             />
           </div>
-          <div className="col-lg-4 col-md-6 col-sm-12 service-card">
+          <div className="col-sm-12 col-md-6 col-lg-4 service-card">
             <MediaCard
               image={crm}
               title={"CRM Application"}
               text={"Each design what we create will suits all environment. Each client needs will be far different, so we are adaptive to design as your needs."}
             />
           </div>
-          <div className="col-lg-4 col-md-6 col-sm-12 service-card">
+          <div className="col-sm-12 col-md-6 col-lg-4 service-card">
             <MediaCard
               image={cloud}
               title={"Cloud Based Web Applications"}
               text={"Each design what we create will suits all environment. Each client needs will be far different, so we are adaptive to design as your needs."}
             />
           </div>
-          <div className="col-lg-4 col-md-6 col-sm-12 service-card">
+          <div className="col-sm-12 col-md-6 col-lg-4 service-card">
             <MediaCard
               image={ecom}
               title={"E-Commerce Application"}
               text={"Each design what we create will suits all environment. Each client needs will be far different, so we are adaptive to design as your needs."}
             />
           </div>
-          <div className="col-lg-4 col-md-6 col-sm-12 service-card">
+          <div className="col-sm-12 col-md-6 col-lg-4 service-card">
             <MediaCard
               image={ui}
               title={"UX/UI Design"}
               text={"Each design what we create will suits all environment. Each client needs will be far different, so we are adaptive to design as your needs."}
             />
           </div>
-          <div className="col-lg-4 col-md-6 col-sm-12 service-card">
+          <div className="col-sm-12 col-md-6 col-lg-4 service-card">
             <MediaCard
               image={enter}
               title={"Enterprise Applications"}

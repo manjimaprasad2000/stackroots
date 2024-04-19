@@ -49,6 +49,7 @@
 .card-list{
     justify-content: center;
     align-items: center;
+    margin-left: 12px !important;
 }
 .slider{
     

@@ -74,7 +74,7 @@ const HomeContent = () => {
       <div className='homebanner'>
         <div className="container">
           <div class="row typewriter">
-            <div className="col-6">
+            <div className="col-12 col-lg-6">
               <TypeAnimation
                 style={{ whiteSpace: 'pre-line', height: '195px', display: 'block', color: "#fff", fontSize: "30px", fontWeight: "700", margin: "150px 0 0", lineHeight: "1.6" }}
                 sequence={[

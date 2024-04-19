@@ -126,6 +126,11 @@
   color: rgb(0, 154, 222);
 }
 .nav-items.text-center.navbar-nav .navbar-nav.active{
+ 
+  color: rgb(0, 154, 222);
+  padding-bottom: 12px;
+}
+.nav-items.text-center.navbar-nav .navbar-nav.active{
   border-bottom: 3px solid rgb(0, 154, 222);
   color: rgb(0, 154, 222);
   padding-bottom: 12px;

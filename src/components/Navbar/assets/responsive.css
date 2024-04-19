@@ -8,4 +8,38 @@
     .navbar-light .navbar-toggler{
         border-color: transparent!important;
     }
+    .nav-items{
+        display: block !important;
+       
+    }
+    .nav-items.text-center.navbar-nav .navbar-nav.active{
+        border-bottom:unset;
+        color: rgb(0, 154, 222);
+        padding-bottom: 12px;
+      }
+    .typewriter span{
+        margin: 10px 0 !important;
+        font-size: 16px !important;
+        height: auto !important;
+    }
+    .typewriter button{
+        margin-bottom: 30px !important; 
+    }
+    .slider h2 {
+        padding: 37px;
+        font-size: 18px;
+    }
+    .content-2 {
+        padding: 10px;
+    }
+    .content-3 {
+        padding: 10px;
+    }
+    .content-4 {
+        padding: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        text-align: left;
+        padding: 0 20px 0 20px;
+    }
  }
