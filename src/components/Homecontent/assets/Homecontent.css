@@ -1,0 +1,76 @@
+.content{
+
+    background-color: rgb(21 17 55);
+    color: white;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.content-1{
+    padding: 50px;
+    width: 100%;
+}
+.content-2{
+    padding: 50px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.content-3{
+    padding: 50px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.content-4{
+    padding: 50px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.content-4 h2{
+    text-align: center;
+
+}
+.readmore{
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.service-card{
+    margin: 60px 0 60px 0;
+    transition: transform 200ms ease-in-out;
+}
+.service-card:hover{
+    
+    transform: scale(1.1); 
+}
+.card-list{
+    justify-content: center;
+    align-items: center;
+}
+.slider{
+    
+    text-align: center;
+}
+.slider h2{
+    padding: 50px;
+}
+.expertcard{
+    background-color: transparent;
+}
+.card-img-top{
+    width: 30px;
+    height: 80px;
+}
+.card-name{
+    color: white;
+}
+.content h1 h2 h3 {
+    font-weight: 200;
+}
+.content-4 h1 {
+    text-align: center;
+    font-weight: bold;
+}

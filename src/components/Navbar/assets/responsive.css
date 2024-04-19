@@ -1,0 +1,11 @@
+@media (max-width: 991px) { 
+    .nav-logo{
+        width: 155px!important;
+    }
+    .navbar-light .navbar-toggler-icon{
+        filter: invert(1)!important;
+    }
+    .navbar-light .navbar-toggler{
+        border-color: transparent!important;
+    }
+ }
